@@ -24,7 +24,7 @@
         "network": "twitter",
         "username": "vvobot",
         "url": "http://twitter.com/vvobot"
-      },
+      }
     ]
   },
   "interests": [
@@ -43,12 +43,12 @@
       "name": "vision",
       "keywords": [
       ]
-    }
+    },
     {
       "name": "natural language processing",
       "keywords": [
       ]
-    },
+    }
   ],
   "education": [
     {
@@ -93,5 +93,5 @@
       "highlights": [
       ]
     }
-  ],
+  ]
 }
