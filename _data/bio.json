@@ -27,6 +27,29 @@
       },
     ]
   },
+  "interests": [
+    {
+      "name": "memory",
+      "keywords": [
+        "visual attention"
+      ]
+    },
+    {
+      "name": "attention",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "vision",
+      "keywords": [
+      ]
+    }
+    {
+      "name": "natural language processing",
+      "keywords": [
+      ]
+    },
+  ],
   "education": [
     {
       "institution": "University of California, San Diego, La Jolla, CA",
