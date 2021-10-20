@@ -6,7 +6,7 @@
     "email": "vy.vo@intel.com",
     "phone": "",
     "website": "https://vyaivo.github.io",
-    "summary": "I am a senior staff research scientist in the Brain-Inspired Computing Lab, a part of Intel Labs.",
+    "summary": "I am a senior staff research scientist in the Brain-Inspired Computing Lab, which is a part of Intel Labs.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -41,6 +41,16 @@
     },
     {
       "name": "vision",
+      "keywords": [
+      ]
+    }, 
+    {
+      "name": "computational neuroscience",
+      "keywords": [
+      ]
+    },    
+    {
+      "name": "artificial neural networks",
       "keywords": [
       ]
     },
