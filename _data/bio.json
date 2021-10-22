@@ -1,12 +1,14 @@
 {
   "basics": {
-    "name": "Vy Ai Vo",
+    "name": "Vy Ai Vo, Ph.D.",
     "label": "AI/ML Research Scientist",
     "picture": "https://vyaivo.github.io/images/Vo_square_small.jpg",
     "email": "vy.vo@intel.com",
     "phone": "",
     "website": "https://vyaivo.github.io",
-    "summary": "I am a senior staff research scientist in the Brain-Inspired Computing Lab, which is a part of Intel Labs. This page is currently under development.",
+    "summary": "I am a senior staff research scientist in the Brain-Inspired Computing Lab, which is a part of Intel Labs.",
+    "current": "I currently work on deep neural networks, especially focusing on sequential data, natural language processing (NLP), and memory models.",
+    "former": "Previously I worked on understanding the human visual system as a cognitive computational neuroscientist, especially focusing on tasks with attention and memory demands.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -27,37 +29,112 @@
       }
     ]
   },
-  "interests": [
+  "publications": [
     {
-      "name": "memory",
-      "keywords": [
-        "visual attention"
-      ]
+      "releaseDate": "2021", 
+      "status": "",
+      "type": "conference",
+      "publisher": "NeurIPS",
+      "name": "Low-Dimensional Structure in the Space of Language Representations is Reflected in Brain Responses",
+      "website": "https://arxiv.org/abs/2106.05426",
+      "author": "Antonello, R., Turek, J.S., <b>Vo, V.A.</b>, Huth, A."
     },
     {
-      "name": "attention",
-      "keywords": [
-      ]
+      "releaseDate": "2021", 
+      "status": "",
+      "type": "journal",
+      "publisher": "Aperture",
+      "name": "BrainIAK: The Brain Imaging Analysis Kit",
+      "website": "https://osf.io/db2ev/",
+      "author": "Kumar, M., Anderson, M., Antony, J.W., Baldassano, C., Brooks, P., Cai, M., Chen, P-H.C., Ellis, C., Henselman-Petrusek, G., Huberdeau, D., Hutchinson, J.B., Li, Y.P., Lu, Q., Manning, J., Mennen, A., Nastase, S., Richard, H., Shapiro, A.C., Schuck, N., Shvartsman, M., Sundaram, N., Suo, D., Turek, J.S., <b>Vo, V.</b>, Wallace, G., Wang, Y., Zhang, H., Zhu, X., Capotă, M., Cohen, J., Hasson, U., Li, K., Ramadge, P.J., Turk-Browne, N., Willke, T., Norman, K.A. "
     },
     {
-      "name": "vision",
-      "keywords": [
-      ]
-    }, 
-    {
-      "name": "computational neuroscience",
-      "keywords": [
-      ]
-    },    
-    {
-      "name": "artificial neural networks",
-      "keywords": [
-      ]
+      "releaseDate": "2021", 
+      "type": "journal",
+      "publisher": "Cerebral Cortex",
+      "name": "Shared representational formats for information maintained in working memory and information retrieved from long-term memory",
+      "website": "https://academic.oup.com/cercor/advance-article/doi/10.1093/cercor/bhab267/6357181?guestAccessKey=269856a0-0066-4190-9621-c05c93623f54", 
+      "author": "<b>Vo, V.A.</b>, Sutterer, D.W., Foster, J.J., Sprague, T.C., Awh, E., Serences, J.T."
     },
     {
-      "name": "natural language processing",
-      "keywords": [
-      ]
+      "releaseDate": "2021", 
+      "type": "conference",
+      "publisher": "LatinX in AI workshop, International Conference on Learning Representations (ICLR)",
+      "name": "Long short-term memory with slower information decay",
+      "website": "",
+      "author": "Chien, H-Y.S., Beckage, N.M., <b>Vo, V.A.</b>, Turek, J.S., Honey, C., Willke, T.L."
+    },
+    {
+      "releaseDate": "2021", 
+      "type": "conference",
+      "publisher": "International Conference on Learning Representations (ICLR)",
+      "name": "Multi-timescale representation learning in LSTM language models",
+      "website": "https://openreview.net/forum?id=9ITXiTrAoT",
+      "author": "Mahto, S., <b>Vo, V.A.</b>, Turek, J.S., Huth, A.G."
+    },
+    {
+      "releaseDate": "2020", 
+      "type": "conference",
+      "publisher": "Neural Information Processing Systems (NeurIPS)",
+      "name": "Interpretable multi-timescale models for predicting fMRI responses to continuous natural speech",
+      "website": "https://proceedings.neurips.cc/paper/2020/file/9e9a30b74c49d07d8150c8c83b1ccf07-Paper.pdf",
+      "author": "Jain, S., <b>Vo, V.</b>, Mahto, S., LeBel, A., Turek, J., Huth, A."
+    },
+    {
+      "releaseDate": "2020", 
+      "type": "conference",
+      "publisher": "International Conference on Machine Learning (ICML)",
+      "name": "Approximating stacked and bidirectional recurrent architectures with the delayed recurrent neural network",
+      "website": "",
+      "author": "Turek, J., Jain, S., Vo, V., Capotă, M., Huth, A., Willke, T."
+    },
+    {
+      "releaseDate": "2019", 
+      "type": "journal",
+      "publisher": "PLOS Biology",
+      "name": "Value-driven attentional capture enhances distractor representations in early visual cortex",
+      "website": "",
+      "author": "Itthipuripat, S.I.*, <b>Vo, V.A.*</b>, Sprague, T.C., Serences, J.T."
+    },
+    {
+      "releaseDate": "2019", 
+      "type": "journal",
+      "publisher": "eNeuro",
+      "name": "Multivariate analysis of BOLD activation patterns recovers graded depth representations in human visual and parietal cortex",
+      "website": "",
+      "author": "Henderson, M.H.*, <b>Vo, V.A.*</b>, Chunharas, C., Sprague, T.C., Serences, J.T."
+    },
+    {
+      "releaseDate": "2018", 
+      "type": "journal",
+      "publisher": "eNeuro",
+      "name": "Inverted encoding models assay population-level stimulus representations, not single-unit neural tuning",
+      "website": "",
+      "author": "Sprague, T.C.*, Adam, K.C.S.*, Foster, J.J.*, Rahmati, M.*, Sutterer, D.W.*, <b>Vo, V.A.*</b>"
+    },
+    {
+      "releaseDate": "2018", 
+      "type": "journal",
+      "publisher": "Journal of Neurophysiology",
+      "name": "Dissociable signatures of visual salience and behavioral relevance across attentional priority maps in human cortex",
+      "website": "",
+      "author": "Sprague, T.C., Itthipuripat, S., <b>Vo, V.A.</b>, and Serences, J.T."
+    },
+    {
+      "releaseDate": "2017", 
+      "type": "journal",
+      "publisher": "Journal of Neuroscience",
+      "name": "Spatial tuning shifts increase the discriminability and fidelity of population codes in visual cortex",
+      "website": "",
+      "author": "<b>Vo, V.A.</b>, Sprague, T.C., and Serences, J.T."
+    },
+    {
+      "releaseDate": "2014", 
+      "type": "journal",
+      "publisher": "Psychological Science",
+      "name": "Young children bet on their numerical skills: Metacognition in the numerical domain.",
+      "website": "",
+      "author": "<b>Vo, V.A.</b>, Li, R., Kornell, N., Pouget, A., Cantlon, J.F."
     }
   ],
   "education": [
@@ -101,6 +178,85 @@
       "endDate": "2019-03",
       "summary": "Thesis commitee: John T. Serences (advisor), Ed Vul, Timothy Gentner, Ed Callaway, Douglas Nitz",
       "highlights": [
+      ]
+    }
+  ],
+  "activity-service": [
+    {
+      "role": "Project mentor",
+      "summary": "NeuroMatch Academy - computational neuroscience",
+      "date": "2021"
+    },
+    {
+      "role": "Workshop co-organizer",
+      "summary": "ICLR ''How can findings about the brain improve AI systems?''",
+      "date": "2021"
+    },
+    {
+      "role": "Workshop committee",
+      "summary": "NeurIPS ''Context and compositionality in biological and artificial systems''",
+      "date": "2019"
+    },
+    {
+      "role": "Ad-hoc reviewer",
+      "summary": "PLOS Computational Biology, Cerebral Cortex, eNeuro, Journal of Cognitive Neuroscience, NeuroImage, PNAS, NeurIPS",
+      "date": ""
+    },
+    {
+      "role": "Guest lecturer",
+      "summary": "Fundamentals in Statistics and Computation for Neuroscientists (graduate), Data Analysis in MATLAB (graduate), Sensation & Perception (undergraduate)",
+      "date": "2015-2016"
+    },
+    {
+      "role": "Teaching assistant",
+      "summary": "Computational neuroscience workshops/labs for Neurosciences Graduate Program boot camp, Data Analysis in MATLAB",
+      "date": "2014-2015"
+    }
+  ], 
+  "interests": [
+    {
+      "name": "memory",
+      "keywords": [
+        "visual memory",
+        "long-term memory",
+        "short-term memory"
+      ]
+    },
+    {
+      "name": "attention",
+      "keywords": [
+        "visual attention",
+	"transformers"
+      ]
+    },
+    {
+      "name": "vision",
+      "keywords": [
+        "visual neuroscience",
+	"visual cognition"
+      ]
+    }, 
+    {
+      "name": "computational neuroscience",
+      "keywords": [
+        "theoretical neuroscience",
+        "cognitive computational neuroscience"
+      ]
+    },    
+    {
+      "name": "artificial neural networks",
+      "keywords": [
+        "deep neural networks",
+        "deep learning",
+	"recurrent neural networks"
+      ]
+    },
+    {
+      "name": "natural language processing",
+      "keywords": [
+        "sequential processing",
+	"self-supervised learning",
+	"transfer learning"
       ]
     }
   ]

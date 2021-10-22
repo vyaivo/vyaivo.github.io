@@ -12,10 +12,13 @@
     <div class="ui grid">
       <div class="sixteen wide column no-bottom">
         <p class="ui no-bottom">
-          <b>{{ entry.name }}</b>{% if entry.author and entry.author != "" %}, {{ entry.author }}{% endif %}, <em>{{ entry.publisher }}</em>, {{ entry.releaseDate }}
-          {% if entry.website %}
-        <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
-        {% endif %}
+	<span style="font-weight: 500">{{ entry.name }}</span>. 
+	  {% if entry.author and entry.author != "" %} {{ entry.author }}{% endif %}, <em>{{ entry.publisher }}</em>, {{ entry.releaseDate }}
+          {% if entry.website == "" %}
+	  {% else %}
+            <span class="ui no-bottom"><a href="{{ entry.website }}">[link]</a></span>
+	  {% else %}
+          {% endif %}
         </p>
         <p class="ui no-bottom">{{ entry.summary }}</p>
       </div>

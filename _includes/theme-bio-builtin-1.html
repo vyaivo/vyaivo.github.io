@@ -2,24 +2,30 @@
 
   <div class="sixteen wide column no-bottom">
     <h2 class="ui center aligned header no-bottom">{{ site.data.bio.basics.name }}</h2>
+    <p style="text-align: center">Abbreviated CV (complete CV <a href="{{ site.baseurl }}/bio/Vo_CV.pdf">here</a>)</p>
   </div>
 
-  <div class="eight wide left aligned column">
+  <div class="eight wide left aligned column no-bottom">
     {% include bio-network-links.html %}
   </div>
 
-  <div class="eight wide right aligned column">
+  <div class="eight wide right aligned column no-bottom">
     {% include bio-address.html %}
   </div>
 </div>
 
 <div style="margin-bottom: 20px" class="ui stackable grid container">
-  {% include bio-interests-1.html %}
   {% include bio-skills-1.html %}
-  {% include bio-education-1.html %}
   {% include bio-work-1.html %}
+  {% include bio-education-1.html %}
   {% include bio-volunteer-1.html %}
   {% include bio-publications-1.html %}
   {% include bio-awards-1.html %}
-  {% include bio-references-1.html %}
+  {% include bio-activities-1.html %}
+</div>
+
+<div class="sixteen wide column">
+  <hr>
+  <p style="text-align: center">This is an abbreviated CV. A more complete document is available <a href="{{ site.baseurl }}/bio/Vo_CV.pdf">here</a></p>
+  <hr>
 </div>
