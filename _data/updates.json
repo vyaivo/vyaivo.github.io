@@ -1,0 +1,107 @@
+{
+  "papers": [
+    {
+    "date": "10/2021",
+    "status": "accepted",
+    "venue": "NeurIPS",
+    "summary": "Work with UT Austin on transfer learning between language representations"
+    },
+    {
+    "date": "07/2021",
+    "status": "accepted",
+    "venue": "Cerebral Cortex",
+    "summary": "PhD work on the representational format of memories in short- and long-term memory"
+    },
+    {
+    "date": "09/2021",
+    "status": "accepted",
+    "venue": "Aperture (OHBM journal)",
+    "summary": "A large group effort paper describing neuroimaging analysis methods (e.g. inverted encoding model) with code examples demonstrating use of the open-source software library BrainIAK"
+    }
+  ],
+  "conferences": [
+    {
+      "date": "10/2021",
+      "venue": "Society for Neurobiology of Language (SNL)",
+      "summary": "Lightning talks on (1) multi-timescale LSTM encoding models and (2) transfer learning between language representations"
+    },
+    {
+      "date": "05/2021",
+      "venue": "ICLR",
+      "summary": "Organized workshop, ''How can findings about the brain improve AI systems?''"
+    }
+  ]
+}
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+_data/updates.json[+] [dos] (14:19 21/10/2021)                                                                                     7,19 All
+-- INSERT --
+"
+    },
+    {
+    "date": "07/2021",
+    "summary": "Paper on representations in short-term and long-term memory accepted to <i>Cerebral Cortex</i>"
+    }
+  ],
+  "conferences": [
+    {
+      "date": "10/2021",
+      "venue": "SNL",
+      "summary": "Lightning talks on (1) multi-timescale LSTM encoding models and (2) NLP and neural taskonomy"
+    },
+    {
+      "date": "05/2021",
+      "venue": "ICLR",
+      "summary": "Organized workshop, ''How can findings about the brain improve AI systems?''"
+    }
+  ]
+}
