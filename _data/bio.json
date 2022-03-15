@@ -6,8 +6,8 @@
     "email": "vy.vo@intel.com",
     "phone": "",
     "website": "https://vyaivo.github.io",
-    "summary": "I am a senior staff research scientist in the Brain-Inspired Computing Lab, which is a part of Intel Labs.",
-    "current": "I currently work on deep neural networks, especially focusing on sequential data, natural language processing (NLP), and memory models.",
+    "summary": "I am a senior staff research scientist in the Brain-Inspired Computing Lab, which is a part of Emergent AI research at Intel Labs.",
+    "current": "I currently work on deep neural networks, especially focusing on sequential data, natural language processing (NLP), and memory models. You can find links to my publications on the CV page.",
     "former": "Previously I worked on understanding the human visual system as a cognitive computational neuroscientist, especially focusing on tasks with attention and memory demands.",
     "location": {
       "address": "",
@@ -36,7 +36,7 @@
       "type": "conference",
       "publisher": "NeurIPS",
       "name": "Low-Dimensional Structure in the Space of Language Representations is Reflected in Brain Responses",
-      "website": "https://arxiv.org/abs/2106.05426",
+      "website": "https://proceedings.neurips.cc/paper/2021/file/464074179972cbbd75a39abc6954cd12-Paper.pdf",
       "author": "Antonello, R., Turek, J.S., <b>Vo, V.A.</b>, Huth, A."
     },
     {
@@ -45,7 +45,7 @@
       "type": "journal",
       "publisher": "Aperture",
       "name": "BrainIAK: The Brain Imaging Analysis Kit",
-      "website": "https://osf.io/db2ev/",
+      "website": "https://apertureneuropub.cloud68.co/articles/42/index.html",
       "author": "Kumar, M., Anderson, M., Antony, J.W., Baldassano, C., Brooks, P., Cai, M., Chen, P-H.C., Ellis, C., Henselman-Petrusek, G., Huberdeau, D., Hutchinson, J.B., Li, Y.P., Lu, Q., Manning, J., Mennen, A., Nastase, S., Richard, H., Shapiro, A.C., Schuck, N., Shvartsman, M., Sundaram, N., Suo, D., Turek, J.S., <b>Vo, V.</b>, Wallace, G., Wang, Y., Zhang, H., Zhu, X., Capotă, M., Cohen, J., Hasson, U., Li, K., Ramadge, P.J., Turk-Browne, N., Willke, T., Norman, K.A. "
     },
     {
@@ -61,7 +61,7 @@
       "type": "conference",
       "publisher": "LatinX in AI workshop, International Conference on Learning Representations (ICLR)",
       "name": "Long short-term memory with slower information decay",
-      "website": "",
+      "website": "https://arxiv.org/pdf/2105.05944.pdf",
       "author": "Chien, H-Y.S., Beckage, N.M., <b>Vo, V.A.</b>, Turek, J.S., Honey, C., Willke, T.L."
     },
     {
@@ -69,7 +69,7 @@
       "type": "conference",
       "publisher": "International Conference on Learning Representations (ICLR)",
       "name": "Multi-timescale representation learning in LSTM language models",
-      "website": "https://openreview.net/forum?id=9ITXiTrAoT",
+      "website": "https://arxiv.org/pdf/2009.12727.pdf",
       "author": "Mahto, S., <b>Vo, V.A.</b>, Turek, J.S., Huth, A.G."
     },
     {
@@ -85,7 +85,7 @@
       "type": "conference",
       "publisher": "International Conference on Machine Learning (ICML)",
       "name": "Approximating stacked and bidirectional recurrent architectures with the delayed recurrent neural network",
-      "website": "",
+      "website": "http://proceedings.mlr.press/v119/turek20a/turek20a.pdf",
       "author": "Turek, J., Jain, S., Vo, V., Capotă, M., Huth, A., Willke, T."
     },
     {
@@ -93,7 +93,7 @@
       "type": "journal",
       "publisher": "PLOS Biology",
       "name": "Value-driven attentional capture enhances distractor representations in early visual cortex",
-      "website": "",
+      "website": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000186",
       "author": "Itthipuripat, S.I.*, <b>Vo, V.A.*</b>, Sprague, T.C., Serences, J.T."
     },
     {
@@ -101,7 +101,7 @@
       "type": "journal",
       "publisher": "eNeuro",
       "name": "Multivariate analysis of BOLD activation patterns recovers graded depth representations in human visual and parietal cortex",
-      "website": "",
+      "website": "https://www.eneuro.org/content/6/4/ENEURO.0362-18.2019",
       "author": "Henderson, M.H.*, <b>Vo, V.A.*</b>, Chunharas, C., Sprague, T.C., Serences, J.T."
     },
     {
@@ -109,7 +109,7 @@
       "type": "journal",
       "publisher": "eNeuro",
       "name": "Inverted encoding models assay population-level stimulus representations, not single-unit neural tuning",
-      "website": "",
+      "website": "https://www.eneuro.org/content/5/3/ENEURO.0098-18.2018.full",
       "author": "Sprague, T.C.*, Adam, K.C.S.*, Foster, J.J.*, Rahmati, M.*, Sutterer, D.W.*, <b>Vo, V.A.*</b>"
     },
     {
@@ -117,7 +117,7 @@
       "type": "journal",
       "publisher": "Journal of Neurophysiology",
       "name": "Dissociable signatures of visual salience and behavioral relevance across attentional priority maps in human cortex",
-      "website": "",
+      "website": "https://journals.physiology.org/doi/full/10.1152/jn.00059.2018",
       "author": "Sprague, T.C., Itthipuripat, S., <b>Vo, V.A.</b>, and Serences, J.T."
     },
     {
@@ -125,7 +125,7 @@
       "type": "journal",
       "publisher": "Journal of Neuroscience",
       "name": "Spatial tuning shifts increase the discriminability and fidelity of population codes in visual cortex",
-      "website": "",
+      "website": "https://www.jneurosci.org/content/37/12/3386.full",
       "author": "<b>Vo, V.A.</b>, Sprague, T.C., and Serences, J.T."
     },
     {
@@ -133,7 +133,7 @@
       "type": "journal",
       "publisher": "Psychological Science",
       "name": "Young children bet on their numerical skills: Metacognition in the numerical domain.",
-      "website": "",
+      "website": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4217213/",
       "author": "<b>Vo, V.A.</b>, Li, R., Kornell, N., Pouget, A., Cantlon, J.F."
     }
   ],
@@ -144,6 +144,7 @@
       "studyType": "Ph.D., M.S.",
       "startDate": "2013",
       "endDate": "2019",
+      "summary": "Thesis commitee: John T. Serences (advisor), Ed Vul, Timothy Gentner, Ed Callaway, Douglas Nitz",
       "gpa": "",
       "courses": [
       ]
@@ -154,6 +155,7 @@
       "studyType": "B.A. with High Honors",
       "startDate": "2007",
       "endDate": "2011",
+      "summary": "Neuroscience research: Kathleen K. Siwicki; Psychology research: Frank Durgin",
       "gpa": "",
       "courses": [
       ]
@@ -167,16 +169,6 @@
       "startDate": "2019-05",
       "endDate": "Present",
       "summary": "Senior staff scientist in the Brain-Inspired Computing Lab",
-      "highlights": [
-      ]
-    },
-    {
-      "company": "Neurosciences Graduate Program, University of California San Diego",
-      "position": "Ph.D. candidate",
-      "website": "",
-      "startDate": "2013-09",
-      "endDate": "2019-03",
-      "summary": "Thesis commitee: John T. Serences (advisor), Ed Vul, Timothy Gentner, Ed Callaway, Douglas Nitz",
       "highlights": [
       ]
     }
