@@ -1,25 +1,30 @@
 {
   "papers": [
     {
-    "date": "10/2021",
-    "status": "accepted",
-    "venue": "NeurIPS",
-    "summary": "Work with UT Austin on transfer learning between language representations"
-    },
-    {
-    "date": "07/2021",
-    "status": "accepted",
+    "date": "03/2022",
+    "status": "published",
     "venue": "Cerebral Cortex",
     "summary": "PhD work on the representational format of memories in short- and long-term memory"
     },
     {
-    "date": "09/2021",
-    "status": "accepted",
+    "date": "02/2022",
+    "status": "published",
     "venue": "Aperture (OHBM journal)",
     "summary": "A large group effort paper describing neuroimaging analysis methods (e.g. inverted encoding model) with code examples demonstrating use of the open-source software library BrainIAK"
+    },
+    {
+    "date": "12/2021",
+    "status": "published",
+    "venue": "NeurIPS",
+    "summary": "Work with UT Austin on transfer learning between language representations"
     }
   ],
   "conferences": [
+    {
+      "date": "03/2022",
+      "venue": "Computational and Systems Neuroscience (COSYNE) workshop",
+      "summary": "Virtual talk at the 'Mechanisms, functions, and methods for diversity of neuronal and network timescales' workshop"
+    },
     {
       "date": "10/2021",
       "venue": "Society for Neurobiology of Language (SNL)",
