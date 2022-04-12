@@ -21,14 +21,14 @@
   ],
   "conferences": [
     {
+      "date": "04/2022",
+      "venue": "From Neuroscience to Artificially Intelligent Systems (NAISys) at CSHL",
+      "summary": "Poster summarizing our neuroscience-inspired efforts to improve long-range abilities of language models"
+    },
+    {
       "date": "03/2022",
       "venue": "Computational and Systems Neuroscience (COSYNE) workshop",
       "summary": "Virtual talk at the 'Mechanisms, functions, and methods for diversity of neuronal and network timescales' workshop"
-    },
-    {
-      "date": "10/2021",
-      "venue": "Society for Neurobiology of Language (SNL)",
-      "summary": "Lightning talks on (1) multi-timescale LSTM encoding models and (2) transfer learning between language representations"
     },
     {
       "date": "05/2021",
