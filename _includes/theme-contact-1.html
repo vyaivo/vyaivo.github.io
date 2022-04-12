@@ -39,7 +39,11 @@
 	  <i class="med mail square icon icon-color"> </i>{{ site.data.bio.basics.email }}<br>
 	  {% for network in site.data.bio.basics.profiles %}
 	    <i class="med {{ network.network | downcase }} icon icon-color"> </i>
+	    {% if network.username == "" %}
+	    <a href="{{ network.url }}">{{ network.network }}</a>
+	    {% else %} 
 	    {{ network.network }}: <a href="{{ network.url }}">{{ network.username }}</a>
+	    {% endif %}
 	    <br>
 	  {% endfor %}
 	  </p>

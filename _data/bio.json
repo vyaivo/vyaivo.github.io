@@ -18,18 +18,36 @@
     },
     "profiles": [
       {
-        "network": "linkedin",
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?hl=en&user=wBjwb8IAAAAJ&view_op=list_works&sortby=pubdate"
+      },
+      {
+        "network": "Semantic Scholar",
+        "username": "",
+        "url": "https://www.semanticscholar.org/author/Vy-A.-Vo/3369353"
+      },
+      {
+        "network": "LinkedIn",
         "username": "vyaivo",
         "url": "http://linkedin.com/in/vyaivo"
       },
       {
-        "network": "twitter",
+        "network": "Twitter",
         "username": "vvobot",
         "url": "http://twitter.com/vvobot"
       }
     ]
   },
   "publications": [
+    {
+      "releaseDate": "2022", 
+      "type": "journal",
+      "publisher": "Cerebral Cortex",
+      "name": "Shared representational formats for information maintained in working memory and information retrieved from long-term memory",
+      "website": "https://academic.oup.com/cercor/advance-article/doi/10.1093/cercor/bhab267/6357181?guestAccessKey=269856a0-0066-4190-9621-c05c93623f54", 
+      "author": "<b>Vo, V.A.</b>, Sutterer, D.W., Foster, J.J., Sprague, T.C., Awh, E., Serences, J.T."
+    },
     {
       "releaseDate": "2021", 
       "status": "",
@@ -47,14 +65,6 @@
       "name": "BrainIAK: The Brain Imaging Analysis Kit",
       "website": "https://apertureneuropub.cloud68.co/articles/42/index.html",
       "author": "Kumar, M., Anderson, M., Antony, J.W., Baldassano, C., Brooks, P., Cai, M., Chen, P-H.C., Ellis, C., Henselman-Petrusek, G., Huberdeau, D., Hutchinson, J.B., Li, Y.P., Lu, Q., Manning, J., Mennen, A., Nastase, S., Richard, H., Shapiro, A.C., Schuck, N., Shvartsman, M., Sundaram, N., Suo, D., Turek, J.S., <b>Vo, V.</b>, Wallace, G., Wang, Y., Zhang, H., Zhu, X., Capotă, M., Cohen, J., Hasson, U., Li, K., Ramadge, P.J., Turk-Browne, N., Willke, T., Norman, K.A. "
-    },
-    {
-      "releaseDate": "2021", 
-      "type": "journal",
-      "publisher": "Cerebral Cortex",
-      "name": "Shared representational formats for information maintained in working memory and information retrieved from long-term memory",
-      "website": "https://academic.oup.com/cercor/advance-article/doi/10.1093/cercor/bhab267/6357181?guestAccessKey=269856a0-0066-4190-9621-c05c93623f54", 
-      "author": "<b>Vo, V.A.</b>, Sutterer, D.W., Foster, J.J., Sprague, T.C., Awh, E., Serences, J.T."
     },
     {
       "releaseDate": "2021", 
