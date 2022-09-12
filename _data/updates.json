@@ -21,6 +21,16 @@
   ],
   "conferences": [
     {
+      "date": "12/2022",
+      "venue": "NeurIPS",
+      "summary": "Organizing in-person Memory in Artificial and Real Intelligence (MemARI) workshop <a href=\"https://memari-workshop.github.io\">[website]<\/a>"
+    },
+    {
+      "date": "05/2022",
+      "venue": "Context and Episodic Memory Symposium",
+      "summary": "Collaborator Mariya Toneva (Princeton, Max Planck SWS) presented joint work on 'Language models that can remember'"
+    },
+    {
       "date": "04/2022",
       "venue": "From Neuroscience to Artificially Intelligent Systems (NAISys) at CSHL",
       "summary": "Poster summarizing our neuroscience-inspired efforts to improve long-range abilities of language models"
@@ -29,11 +39,6 @@
       "date": "03/2022",
       "venue": "Computational and Systems Neuroscience (COSYNE) workshop",
       "summary": "Virtual talk at the 'Mechanisms, functions, and methods for diversity of neuronal and network timescales' workshop"
-    },
-    {
-      "date": "05/2021",
-      "venue": "ICLR",
-      "summary": "Organized workshop, ''How can findings about the brain improve AI systems?''"
     }
   ]
 }
