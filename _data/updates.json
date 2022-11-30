@@ -1,6 +1,18 @@
 {
   "papers": [
     {
+    "date": "11/2022",
+    "status": "accepted",
+    "venue": "NeurIPS MemARI workshop",
+    "summary": "Two short papers to be presented as posters -- one on language models and one on graph neural networks"
+    },
+    {
+    "date": "09/2022",
+    "status": "preprint",
+    "venue": "arXiv:2209.10818",
+    "summary": "Survey paper on memory-augmented graph neural networks from a neuroscience perspective" 
+    },
+    {
     "date": "03/2022",
     "status": "published",
     "venue": "Cerebral Cortex",

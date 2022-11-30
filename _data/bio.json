@@ -42,6 +42,22 @@
   "publications": [
     {
       "releaseDate": "2022", 
+      "type": "conference",
+      "publisher": "Memory in Artificial and Real Intelligence (MemARI) workshop, NeurIPS",
+      "name": "Memory in humans and deep language models: Linking hypotheses for model augmentation",
+      "website": "https://arxiv.org/abs/2210.01869", 
+      "author": "Raccah, O., Chen, P., Willke, T., Poeppel, D., <b>Vo, V.A.</b>"
+    },
+    {
+      "releaseDate": "2022", 
+      "type": "conference",
+      "publisher": "Memory in Artificial and Real Intelligence (MemARI) workshop, NeurIPS",
+      "name": "Cache-memory gated graph neural networks",
+      "website": "https://openreview.net/forum?id=EDheExoQuJN", 
+      "author": "Ma, G., <b>Vo, V.A.</b>, Ahmed, N., Willke, T."
+    },
+    {
+      "releaseDate": "2022", 
       "type": "journal",
       "publisher": "Cerebral Cortex",
       "name": "Shared representational formats for information maintained in working memory and information retrieved from long-term memory",
