@@ -6,9 +6,9 @@
     "email": "vy.vo@intel.com",
     "phone": "",
     "website": "https://vyaivo.github.io",
-    "summary": "I am a research scientist in the Brain-Inspired Computing Lab, which is a part of Emergent AI research at Intel Labs.",
-    "current": "I currently work on deep neural networks, especially focusing on sequential data, natural language processing (NLP), and memory models. You can find links to my publications on the CV page.",
-    "former": "Previously I worked on understanding the human visual system as a cognitive computational neuroscientist, especially focusing on tasks with attention and memory demands.",
+    "summary": "I am a research scientist in the Brain-Inspired Computing Lab, which is part of Intelligent Systems Research at Intel Labs.",
+    "current": "I am immersed in deep learning research, with a current focus on natural language processing (NLP) and models of memory in machine learning. You can find links to my publications on the CV page.",
+    "former": "My PhD is in cognitive computational neuroscience, with a focus on attention and memory.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -41,6 +41,30 @@
   },
   "publications": [
     {
+      "releaseDate": "2023", 
+      "type": "journal",
+      "publisher": "Neurobiology of Language",
+      "name": "Computational language modeling and the promise of in silico experimentation",
+      "website": "https://direct.mit.edu/nol/article/doi/10.1162/nol_a_00101/114613", 
+      "author": "Jain, S., <b>Vo, V.A.</b>, Wehbe, L., Huth, A.G."
+    },
+    {
+      "releaseDate": "2022", 
+      "type": "conference",
+      "publisher": "MemARI Workshop, Neural Information Processing Systems (NeurIPS)",
+      "name": "Cache-memory gated graph neural networks",
+      "website": "https://memari-workshop.github.io/papers/paper_32.pdf",
+      "author": "Ma, G., <b>Vo, V.A.</b>, Ahmed, N., Willke, T.L."
+    },
+    {
+      "releaseDate": "2022", 
+      "type": "conference",
+      "publisher": "MemARI Workshop, Neural Information Processing Systems (NeurIPS)",
+      "name": "Memory in humans and deep language models: Linking hypotheses for model augmentation",
+      "website": "https://arxiv.org/abs/2210.01869",
+      "author": "Raccah, O., Chen, P., Willke, T., Poeppel, D., <b>Vo, V.A.</b>"
+    },
+    {
       "releaseDate": "2022", 
       "type": "journal",
       "publisher": "Cerebral Cortex",
@@ -50,7 +74,6 @@
     },
     {
       "releaseDate": "2021", 
-      "status": "",
       "type": "conference",
       "publisher": "NeurIPS",
       "name": "Low-Dimensional Structure in the Space of Language Representations is Reflected in Brain Responses",
@@ -59,7 +82,6 @@
     },
     {
       "releaseDate": "2021", 
-      "status": "",
       "type": "journal",
       "publisher": "Aperture",
       "name": "BrainIAK: The Brain Imaging Analysis Kit",

@@ -1,44 +1,28 @@
 {
   "papers": [
     {
-    "date": "03/2022",
+    "date": "01/2023",
     "status": "published",
-    "venue": "Cerebral Cortex",
-    "summary": "Work on the representational format of memories in short- and long-term memory"
+    "venue": "Neurobiology of Language",
+    "summary": "Opinion piece for special issue on the cognitive computational neuroscience of language"
     },
     {
-    "date": "02/2022",
+    "date": "12/2022",
     "status": "published",
-    "venue": "Aperture (OHBM journal)",
-    "summary": "A large group effort paper describing neuroimaging analysis methods (e.g. inverted encoding model) with code examples demonstrating use of the open-source software library BrainIAK"
-    },
-    {
-    "date": "12/2021",
-    "status": "published",
-    "venue": "NeurIPS",
-    "summary": "Work with UT Austin on transfer learning between language representations"
+    "venue": "NeurIPS - MemARI workshop",
+    "summary": "Two papers -- one on memory-augmented graph neural networks, and one on memory in humans vs. deep language models"
     }
   ],
   "conferences": [
     {
       "date": "12/2022",
       "venue": "NeurIPS",
-      "summary": "Organizing in-person Memory in Artificial and Real Intelligence (MemARI) workshop <a href=\"https://memari-workshop.github.io\">[website]<\/a>"
+      "summary": "Organized in-person/hybrid Memory in Artificial and Real Intelligence (MemARI) workshop <a href=\"https://memari-workshop.github.io\">[website]<\/a>"
     },
     {
       "date": "05/2022",
       "venue": "Context and Episodic Memory Symposium",
       "summary": "Collaborator Mariya Toneva (Princeton, Max Planck SWS) presented joint work on 'Language models that can remember'"
-    },
-    {
-      "date": "04/2022",
-      "venue": "From Neuroscience to Artificially Intelligent Systems (NAISys) at CSHL",
-      "summary": "Poster summarizing our neuroscience-inspired efforts to improve long-range abilities of language models"
-    },
-    {
-      "date": "03/2022",
-      "venue": "Computational and Systems Neuroscience (COSYNE) workshop",
-      "summary": "Virtual talk at the 'Mechanisms, functions, and methods for diversity of neuronal and network timescales' workshop"
     }
   ]
 }
