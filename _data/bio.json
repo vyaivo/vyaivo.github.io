@@ -207,6 +207,17 @@
   ],
   "activity-service": [
     {
+      "role": "Workshop co-organizer",
+      "summary": "NeurIPS ''Memory in Real and Artificial Intelligence (MemARI)''",
+      "date": "2022"
+    },
+    {
+      "role": "Workshop committee",
+      "summary": "NeurIPS ''Gaze Meets ML''",
+      "date": "2022"
+    },
+
+    {
       "role": "Project mentor",
       "summary": "NeuroMatch Academy - computational neuroscience",
       "date": "2021"
@@ -223,7 +234,7 @@
     },
     {
       "role": "Ad-hoc reviewer",
-      "summary": "PLOS Computational Biology, Cerebral Cortex, eNeuro, Journal of Cognitive Neuroscience, NeuroImage, PNAS, NeurIPS",
+      "summary": "NeurIPS, ICLR, PLOS Computational Biology, Cerebral Cortex, eNeuro, Journal of Cognitive Neuroscience, NeuroImage, PNAS",
       "date": ""
     },
     {
