@@ -7,8 +7,8 @@
     "phone": "",
     "website": "https://vyaivo.github.io",
     "summary": "I am a research scientist in the Brain-Inspired Computing Lab, which is part of Intelligent Systems Research at Intel Labs.",
-    "current": "I am immersed in deep learning research, with a current focus on natural language processing (NLP) and models of memory in machine learning. You can find links to my publications on the CV page.",
-    "former": "My PhD is in cognitive computational neuroscience, with a focus on attention and memory.",
+    "current": "My current focus is on language models and models of memory in machine learning. You can find links to my publications on the CV page.",
+    "former": "My PhD is in cognitive computational neuroscience, particularly studying attention and memory.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -40,6 +40,14 @@
     ]
   },
   "publications": [
+    {
+      "releaseDate": "2023", 
+      "type": "journal",
+      "publisher": "Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+      "name": "Augmenting recurrent graph neural networks with a cache",
+      "website": "https://dl.acm.org/doi/pdf/10.1145/3580305.3599260", 
+      "author": "Ma, G., Vo, V.A., Willke, T.L., Ahmed, N.A."
+    },
     {
       "releaseDate": "2023", 
       "type": "journal",
@@ -216,7 +224,6 @@
       "summary": "NeurIPS ''Gaze Meets ML''",
       "date": "2022"
     },
-
     {
       "role": "Project mentor",
       "summary": "NeuroMatch Academy - computational neuroscience",

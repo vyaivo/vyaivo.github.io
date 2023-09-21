@@ -1,28 +1,34 @@
 {
   "papers": [
     {
-    "date": "01/2023",
-    "status": "published",
-    "venue": "Neurobiology of Language",
-    "summary": "Opinion piece for special issue on the cognitive computational neuroscience of language"
+    "date": "09/2023",
+    "status": "accepted",
+    "venue": "NeurIPS",
+    "summary": "Paper with UT Austin and Emergent AI at Intel Labs on multimodal representation transfer with fMRI encoding model"
     },
     {
-    "date": "12/2022",
-    "status": "published",
-    "venue": "NeurIPS - MemARI workshop",
-    "summary": "Two papers -- one on memory-augmented graph neural networks, and one on memory in humans vs. deep language models"
+    "date": "08/2023",
+    "status": "<a href=\"https://arxiv.org/abs/2308.09440\">preprinted<\/a>",
+    "venue": "arXiv",
+    "summary": "Collaboration with Technion, Ben Gurion, and Parallel Computing at Intel Labs on redesigning tokenizers and pre-training code LMs for use in high-performance computing and compilers"
+    },
+    {
+    "date": "08/2023",
+    "status": "<a href=\"https://www.biorxiv.org/content/10.1101/2023.08.03.551886v1.abstract\">preprinted<\/a>, submitted",
+    "venue": "bioRxiv",
+    "summary": "Co-first author work on a DNN-based encoding model to account for temporal context effects in neuroscience"
     }
   ],
   "conferences": [
     {
+      "date": "08/2023",
+      "venue": "KDD (Knowledge Discovery & Data Mining)",
+      "summary": "Served as an invited discussion panelist at LLM Day <a href=\"https://bigmodel.ai/llmday-kdd23/\">[website]<\/a>"
+    },
+    {
       "date": "12/2022",
       "venue": "NeurIPS",
       "summary": "Organized in-person/hybrid Memory in Artificial and Real Intelligence (MemARI) workshop <a href=\"https://memari-workshop.github.io\">[website]<\/a>"
-    },
-    {
-      "date": "05/2022",
-      "venue": "Context and Episodic Memory Symposium",
-      "summary": "Collaborator Mariya Toneva (Princeton, Max Planck SWS) presented joint work on 'Language models that can remember'"
     }
   ]
 }
