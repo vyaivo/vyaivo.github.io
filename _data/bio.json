@@ -39,14 +39,57 @@
       }
     ]
   },
+
+  "preprints": [
+    {
+      "releaseDate": "2023",
+      "type": "preprint",
+      "publisher": "arXiv",
+      "name": "Domain-specific code language models: Unraveling the potential for HPC codes and tasks",
+      "website": "https://arxiv.org/abs/2312.13322",
+      "author": "Kadosh, T., Hasabnis, N., <b>Vo, V.A.</b>, Schneider, N., Krien, N., Capota, M., Wasay, A., Tamir, G., Willke, T., Ahmed, N., Pinter, Y., Mattson, T., Oren, G."
+    },
+    {
+      "releaseDate": "2023",
+      "type": "preprint",
+      "publisher": "arXiv",
+      "name": "Scope is all you need: Transforming LLMs for HPC code",
+      "website": "https://arxiv.org/pdf/2308.09440",
+      "author": "Kadosh, T., Hasabnis, N., <b>Vo, V.A.</b>, Schneider, N., Krien, N., Capota, M., Wasay, A., Tamir, G., Willke, T., Ahmed, N., Pinter, Y., Mattson, T., Oren, G."
+    },
+    {
+      "releaseDate": "2023",
+      "type": "preprint",
+      "publisher": "bioRxiv",
+      "name": "A unifying computational account of temporal context effects in language across the human cortex",
+      "website": "https://www.biorxiv.org/content/10.1101/2023.08.03.551886v1.abstract",
+      "author": "<b>Vo, V.A.*</b>, Jain, S.*, Beckage, N., Chien, H.Y.S., Obinwa, C., Huth, A.G."
+    }
+  ],
   "publications": [
+    {
+      "releaseDate": "2023", 
+      "type": "journal",
+      "publisher": "IEEE Transactions on Artificial Intelligence",
+      "name": "Memory-Augmented Graph Neural Networks: A Brain-Inspired Review",
+      "website": "https://ieeexplore.ieee.org/abstract/document/10308405", 
+      "author": "Ma, G., <b>Vo, V.A.</b>, Willke, T.L., Ahmed, N.A."
+    },
+    {
+      "releaseDate": "2023", 
+      "type": "journal",
+      "publisher": "NeurIPS",
+      "name": "Brain encoding models based on multimodal transformers can transfer across language and vision",
+      "website": "https://arxiv.org/abs/2305.12248", 
+      "author": "Tang, J., Du, M., <b>Vo, V.A</b>., Lal, V., Huth, A.G."
+    },
     {
       "releaseDate": "2023", 
       "type": "journal",
       "publisher": "Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
       "name": "Augmenting recurrent graph neural networks with a cache",
       "website": "https://dl.acm.org/doi/pdf/10.1145/3580305.3599260", 
-      "author": "Ma, G., Vo, V.A., Willke, T.L., Ahmed, N.A."
+      "author": "Ma, G., <b>Vo, V.A.</b>, Willke, T.L., Ahmed, N.A."
     },
     {
       "releaseDate": "2023", 
