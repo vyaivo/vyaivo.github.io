@@ -7,7 +7,7 @@
     "phone": "",
     "website": "https://vyaivo.github.io",
     "summary": "I am a research scientist in the Brain-Inspired Computing Lab, which is part of Intelligent Systems Research at Intel Labs.",
-    "current": "My current focus is on language models and models of memory in machine learning. You can find links to my publications on the CV page.",
+    "current": "I am currently working on vector similarity search, language models, and models of memory in machine learning. You can find links to my publications on the CV page.",
     "former": "My PhD is in cognitive computational neuroscience, particularly studying attention and memory.",
     "location": {
       "address": "",
@@ -42,6 +42,22 @@
 
   "preprints": [
     {
+      "releaseDate": "2024",
+      "type": "preprint",
+      "publisher": "PsyArXiv",
+      "name": "The Naturalistic Free Recall Dataset: four stories, hundreds of participants, and high-fidelity transcriptions",
+      "website": "https://osf.io/preprints/psyarxiv/rxwqh",
+      "author": "Raccah, O., Chen, P., Gureckis, T., Poeppel, D., <b>Vo, V.</b>" 
+    },
+    {
+      "releaseDate": "2023",
+      "type": "preprint",
+      "publisher": "bioRxiv",
+      "name": "A unifying computational account of temporal context effects in language across the human cortex",
+      "website": "https://www.biorxiv.org/content/10.1101/2023.08.03.551886v1.abstract",
+      "author": "<b>Vo, V.A.*</b>, Jain, S.*, Beckage, N., Chien, H.Y.S., Obinwa, C., Huth, A.G."
+    },
+    {
       "releaseDate": "2023",
       "type": "preprint",
       "publisher": "arXiv",
@@ -54,19 +70,27 @@
       "type": "preprint",
       "publisher": "arXiv",
       "name": "Scope is all you need: Transforming LLMs for HPC code",
-      "website": "https://arxiv.org/pdf/2308.09440",
+      "website": "https://arxiv.org/abs/2308.09440",
       "author": "Kadosh, T., Hasabnis, N., <b>Vo, V.A.</b>, Schneider, N., Krien, N., Capota, M., Wasay, A., Tamir, G., Willke, T., Ahmed, N., Pinter, Y., Mattson, T., Oren, G."
-    },
-    {
-      "releaseDate": "2023",
-      "type": "preprint",
-      "publisher": "bioRxiv",
-      "name": "A unifying computational account of temporal context effects in language across the human cortex",
-      "website": "https://www.biorxiv.org/content/10.1101/2023.08.03.551886v1.abstract",
-      "author": "<b>Vo, V.A.*</b>, Jain, S.*, Beckage, N., Chien, H.Y.S., Obinwa, C., Huth, A.G."
     }
   ],
   "publications": [
+    {
+      "releaseDate": "2024", 
+      "type": "conference",
+      "publisher": "AI4Sys Workshop, High Performance Parallel and Distributed Computing (HPDC)",
+      "name": "MPIrigen: MPI Code Generation through Domain-Specific Language Models",
+      "website": "https://arxiv.org/abs/2402.09126", 
+      "author": "Schneider, N., Hasabnis, N., <b>Vo, V.A.</b>, Kadosh, T., Krien, N., Capotă, M., Tamir, G., Willke, T., Ahmed, N., Pinter, Y., Mattson, T., Oren, G."
+    },
+    {
+      "releaseDate": "2024", 
+      "type": "conference",
+      "publisher": "International European Conference on Parallel and Distributed Computing (Euro-Par)",
+      "name": "OMPGPT: A Generative Pre-trained Transformer Model for OpenMP",
+      "website": "https://arxiv.org/abs/2401.16445", 
+      "author": "Chen, L., Bhattacharjee, A., Ahmed, N., Hasabnis, N., Oren, G., <b>Vo, V.A.</b>, Jannesari, A."
+    },
     {
       "releaseDate": "2023", 
       "type": "journal",
@@ -77,15 +101,15 @@
     },
     {
       "releaseDate": "2023", 
-      "type": "journal",
-      "publisher": "NeurIPS",
+      "type": "conference",
+      "publisher": "Neural Information Processing Systems (NeurIPS)",
       "name": "Brain encoding models based on multimodal transformers can transfer across language and vision",
       "website": "https://arxiv.org/abs/2305.12248", 
       "author": "Tang, J., Du, M., <b>Vo, V.A</b>., Lal, V., Huth, A.G."
     },
     {
       "releaseDate": "2023", 
-      "type": "journal",
+      "type": "conference",
       "publisher": "Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
       "name": "Augmenting recurrent graph neural networks with a cache",
       "website": "https://dl.acm.org/doi/pdf/10.1145/3580305.3599260", 
@@ -126,7 +150,7 @@
     {
       "releaseDate": "2021", 
       "type": "conference",
-      "publisher": "NeurIPS",
+      "publisher": "Neural Information Processing Systems (NeurIPS)",
       "name": "Low-Dimensional Structure in the Space of Language Representations is Reflected in Brain Responses",
       "website": "https://proceedings.neurips.cc/paper/2021/file/464074179972cbbd75a39abc6954cd12-Paper.pdf",
       "author": "Antonello, R., Turek, J.S., <b>Vo, V.A.</b>, Huth, A."
@@ -251,19 +275,24 @@
       "website": "",
       "startDate": "2019-05",
       "endDate": "Present",
-      "summary": "Senior staff scientist in the Brain-Inspired Computing Lab",
+      "summary": "Brain-Inspired Computing Lab, Intelligent Systems Research",
       "highlights": [
       ]
     }
   ],
   "activity-service": [
     {
+      "role": "Workshop program committee",
+      "summary": "ICLR ''Representational Alignment''",
+      "date": "2024"
+    },
+    {
       "role": "Workshop co-organizer",
       "summary": "NeurIPS ''Memory in Real and Artificial Intelligence (MemARI)''",
       "date": "2022"
     },
     {
-      "role": "Workshop committee",
+      "role": "Workshop program committee",
       "summary": "NeurIPS ''Gaze Meets ML''",
       "date": "2022"
     },
@@ -284,7 +313,7 @@
     },
     {
       "role": "Ad-hoc reviewer",
-      "summary": "NeurIPS, ICLR, PLOS Computational Biology, Cerebral Cortex, eNeuro, Journal of Cognitive Neuroscience, NeuroImage, PNAS",
+      "summary": "NeurIPS, ICLR, ICML, PLOS Computational Biology, Journal of Cognitive Neuroscience, NeuroImage, PNAS",
       "date": ""
     },
     {
@@ -311,14 +340,14 @@
       "name": "attention",
       "keywords": [
         "visual attention",
-	"transformers"
+    	"transformers"
       ]
     },
     {
       "name": "vision",
       "keywords": [
         "visual neuroscience",
-	"visual cognition"
+    	"visual cognition"
       ]
     }, 
     {
@@ -333,15 +362,15 @@
       "keywords": [
         "deep neural networks",
         "deep learning",
-	"recurrent neural networks"
+    	"recurrent neural networks"
       ]
     },
     {
       "name": "natural language processing",
       "keywords": [
         "sequential processing",
-	"self-supervised learning",
-	"transfer learning"
+    	"self-supervised learning",
+    	"transfer learning"
       ]
     }
   ]

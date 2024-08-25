@@ -1,22 +1,22 @@
 {
   "papers": [
     {
+    "date": "06/2024",
+    "status": "<a href=\"https://osf.io/preprints/psyarxiv/rxwqh\">preprinted<\/a>",
+    "venue": "PsyArXiv",
+    "summary": "Large-scale dataset for human memory released: free recall of mid-length text narratives"
+    },
+    {
+    "date": "04/2024",
+    "status": "accepted",
+    "venue": "AI4Sys Workshop at HPDC",
+    "summary": "Paper on fine-tuning an LLM (pre-trained only on high-performance computing code) to generate MPI function calls to convert serial to parallel code"
+    },
+    {
     "date": "09/2023",
     "status": "accepted",
     "venue": "NeurIPS",
     "summary": "Paper with UT Austin and Emergent AI at Intel Labs on multimodal representation transfer with fMRI encoding model"
-    },
-    {
-    "date": "08/2023",
-    "status": "<a href=\"https://arxiv.org/abs/2308.09440\">preprinted<\/a>",
-    "venue": "arXiv",
-    "summary": "Collaboration with Technion, Ben Gurion, and Parallel Computing at Intel Labs on redesigning tokenizers and pre-training code LMs for use in high-performance computing and compilers"
-    },
-    {
-    "date": "08/2023",
-    "status": "<a href=\"https://www.biorxiv.org/content/10.1101/2023.08.03.551886v1.abstract\">preprinted<\/a>, submitted",
-    "venue": "bioRxiv",
-    "summary": "Co-first author work on a DNN-based encoding model to account for temporal context effects in neuroscience"
     }
   ],
   "conferences": [
