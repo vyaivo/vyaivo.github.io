@@ -1,34 +1,40 @@
 {
   "papers": [
     {
-    "date": "06/2024",
-    "status": "<a href=\"https://osf.io/preprints/psyarxiv/rxwqh\">preprinted<\/a>",
-    "venue": "PsyArXiv",
-    "summary": "Large-scale dataset for human memory released: free recall of mid-length text narratives"
+    "date": "12/2024",
+    "status": "<a href=\"https://www.nature.com/articles/s41597-024-04082-6\">published<\/a>",
+    "venue": "Scientific Data",
+    "summary": "The 'Naturalistic Free Recall' Dataset: four stories, hundreds of participants, and high-fidelity transcriptions"
     },
     {
-    "date": "04/2024",
-    "status": "accepted",
-    "venue": "AI4Sys Workshop at HPDC",
-    "summary": "Paper on fine-tuning an LLM (pre-trained only on high-performance computing code) to generate MPI function calls to convert serial to parallel code"
+    "date": "10/2024",
+    "status": "<a href=\"https://arxiv.org/abs/2410.08133\">preprinted<\/a>",
+    "venue": "arXiv",
+    "summary": "Report on our Sequence Order Recall Task (SORT), a benchmark to evaluate long-term memory behavior in LLMs. We release data and code"
+    },
+    {
+    "date": "09/2024",
+    "status": "<a href=\"https://arxiv.org/abs/2312.13322\">presented<\/a>",
+    "venue": "IEEE High Performance Extreme Computing",
+    "summary": "Outstanding paper award for Monocoder: Domain-specific code language model for HPC Codes and Tasks"
     },
     {
     "date": "09/2023",
-    "status": "accepted",
+    "status": "<a href=\"https://proceedings.neurips.cc/paper_files/paper/2023/hash/5ebbbac62b968254093023f1c95015d3-Abstract-Conference.html\">accepted<\/a>",
     "venue": "NeurIPS",
     "summary": "Paper with UT Austin and Emergent AI at Intel Labs on multimodal representation transfer with fMRI encoding model"
     }
   ],
   "conferences": [
     {
+      "date": "11/2024",
+      "venue": "Workshop on Attributing Model Behavior at Scale, NeurIPS",
+      "summary": "Poster on optimizing vector similarity search and retrieval for retrieval augmented generation (RAG) systems"
+    },
+    {
       "date": "08/2023",
       "venue": "KDD (Knowledge Discovery & Data Mining)",
       "summary": "Served as an invited discussion panelist at LLM Day <a href=\"https://bigmodel.ai/llmday-kdd23/\">[website]<\/a>"
-    },
-    {
-      "date": "12/2022",
-      "venue": "NeurIPS",
-      "summary": "Organized in-person/hybrid Memory in Artificial and Real Intelligence (MemARI) workshop <a href=\"https://memari-workshop.github.io\">[website]<\/a>"
     }
   ]
 }

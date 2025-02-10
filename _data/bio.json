@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Vy Ai Vo, Ph.D.",
-    "label": "AI/ML Research Scientist",
+    "label": "Research Scientist",
     "picture": "https://vyaivo.github.io/images/Vo_square_small.jpg",
     "email": "vy.vo@intel.com",
     "phone": "",
     "website": "https://vyaivo.github.io",
-    "summary": "I am a research scientist in the Brain-Inspired Computing Lab, which is part of Intelligent Systems Research at Intel Labs.",
-    "current": "I am currently working on vector similarity search, language models, and models of memory in machine learning. You can find links to my publications on the CV page.",
-    "former": "My PhD is in cognitive computational neuroscience, particularly studying attention and memory.",
+    "summary": "I work at the intersection of computer science, neuroscience, and cognitive science. I am interested in the computational underpinnings of intelligent behavior, particularly in the use of memory and attention.",
+    "current": "I have recently left my research scientist role at Intel Labs to pursue other projects, both in machine learning and cognitive neuroscience.",
+    "former": "Previously I spent 5 years working in AI/ML in the Brain-Inspired Computing Lab at Intel Labs, most recently on vector similarity search, RAG, and LLM code generation.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Hillsboro",
+      "city": "Portland",
       "countryCode": "USA",
       "region": "Oregon"
     },
@@ -42,12 +42,12 @@
 
   "preprints": [
     {
-      "releaseDate": "2024",
+      "releaseDate": "2024", 
       "type": "preprint",
-      "publisher": "PsyArXiv",
-      "name": "The Naturalistic Free Recall Dataset: four stories, hundreds of participants, and high-fidelity transcriptions",
-      "website": "https://osf.io/preprints/psyarxiv/rxwqh",
-      "author": "Raccah, O., Chen, P., Gureckis, T., Poeppel, D., <b>Vo, V.</b>" 
+      "publisher": "arXiv",
+      "name": "Assessing episodic memory in LLMs with Sequence Order Recall Tasks",
+      "website": "https://www.nature.com/articles/s41597-024-04082-6",
+      "author": "Pink, M., <b>Vo, V.A.</b>, Wu, Q., Mu, Q., Turek, J.S., Hasson, U., Norman, K.A., Michelmann, S., Huth, A., Toneva, M."
     },
     {
       "releaseDate": "2023",
@@ -58,23 +58,47 @@
       "author": "<b>Vo, V.A.*</b>, Jain, S.*, Beckage, N., Chien, H.Y.S., Obinwa, C., Huth, A.G."
     },
     {
-      "releaseDate": "2023",
+      "releaseDate": "2024",
       "type": "preprint",
       "publisher": "arXiv",
-      "name": "Domain-specific code language models: Unraveling the potential for HPC codes and tasks",
-      "website": "https://arxiv.org/abs/2312.13322",
-      "author": "Kadosh, T., Hasabnis, N., <b>Vo, V.A.</b>, Schneider, N., Krien, N., Capota, M., Wasay, A., Tamir, G., Willke, T., Ahmed, N., Pinter, Y., Mattson, T., Oren, G."
-    },
-    {
-      "releaseDate": "2023",
-      "type": "preprint",
-      "publisher": "arXiv",
-      "name": "Scope is all you need: Transforming LLMs for HPC code",
-      "website": "https://arxiv.org/abs/2308.09440",
-      "author": "Kadosh, T., Hasabnis, N., <b>Vo, V.A.</b>, Schneider, N., Krien, N., Capota, M., Wasay, A., Tamir, G., Willke, T., Ahmed, N., Pinter, Y., Mattson, T., Oren, G."
+      "name": "The landscape and challenges of HPC research and LLMs",
+      "website": "https://arxiv.org/abs/2402.02018",
+      "author": "Chen, L., Ahmed, N.K., Dutta, A., Bhattacharjee, A., Yu, S., Mahmud, Q.I., Abebe, W., Phan, H., Sarkar, A., Butler, B., Hasabnis, N., Oren, G., <b>Vo, V.A.</b>, Munoz, J.P., Willke, T.L., Mattson, T., Jannesari, A."
     }
   ],
   "publications": [
+    {
+      "releaseDate": "2024", 
+      "type": "journal",
+      "publisher": "Scientific Data",
+      "name": "The “Naturalistic Free Recall” Dataset: four stories, hundreds of participants, and high-fidelity transcriptions",
+      "website": "https://www.nature.com/articles/s41597-024-04082-6",
+      "author": "Raccah, O., Chen, P., Gureckis, T., Poeppel, D., Vo, V."
+    },
+    {
+      "releaseDate": "2024",
+      "type": "conference",
+      "publisher": "Attributing Model Behavior at Scale Workshop, Neural Information Processing Systems (NeurIPS)",
+      "name": "Toward optimal search and retrieval for RAG",
+      "website": "https://arxiv.org/abs/2411.0796",
+      "author": "Leto, A., Aguerreberre, C., Bhati, I., Willke, T., Tepper, M., <b>Vo, V.A.</b>"
+    },
+    {
+      "releaseDate": "2024",
+      "type": "conference",
+      "publisher": "ML for Systems Workshop, Neural Information Processing Systems (NeurIPS)",
+      "name": "OMPar: Automatic parallelization with AI-driven source-to-source compilation",
+      "website": "https://arxiv.org/abs/2409.14771",
+      "author": "Kadosh, T., Hasabnis, N., Soundararajn, P., <b>Vo, V.A.</b>, Capota, M., Ahmed, N., Pinter, Y., Oren, G."
+    },
+    {
+      "releaseDate": "2024",
+      "type": "conference",
+      "publisher": "IEEE High Performance Extreme Computing",
+      "name": "Monocoder: Domain-specific code language model for HPC codes and tasks",
+      "website": "https://arxiv.org/abs/2312.13322",
+      "author": "Kadosh, T., Hasabnis, N., <b>Vo, V.A.</b>, Schneider, N., Krien, N., Capota, M., Wasay, A., Tamir, G., Willke, T., Ahmed, N., Pinter, Y., Mattson, T., Oren, G."
+    },
     {
       "releaseDate": "2024", 
       "type": "conference",
@@ -274,7 +298,7 @@
       "position": "AI/ML Research Scientist",
       "website": "",
       "startDate": "2019-05",
-      "endDate": "Present",
+      "endDate": "2024-11",
       "summary": "Brain-Inspired Computing Lab, Intelligent Systems Research",
       "highlights": [
       ]
@@ -285,6 +309,11 @@
       "role": "Workshop program committee",
       "summary": "ICLR ''Representational Alignment''",
       "date": "2024"
+    },
+    {
+      "role": "Panel member",
+      "summary": "KDD ''LLM Day''",
+      "date": "2023"
     },
     {
       "role": "Workshop co-organizer",
@@ -313,7 +342,7 @@
     },
     {
       "role": "Ad-hoc reviewer",
-      "summary": "NeurIPS, ICLR, ICML, PLOS Computational Biology, Journal of Cognitive Neuroscience, NeuroImage, PNAS",
+      "summary": "NeurIPS, ICLR, ICML, PLOS Computational Biology, Journal of Cognitive Neuroscience, NeuroImage, PNAS, Learning and Memory",
       "date": ""
     },
     {
