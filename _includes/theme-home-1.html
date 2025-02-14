@@ -43,7 +43,7 @@
       <div class="center aligned content">
         <div class="left aligned description">
           <div class="meta">
-	    <span class="date">Publication Updates</span>
+	    <span class="date">Recent Publication Updates</span>
           </div>
 	  <ul>
           {% for paper in site.data.updates.papers %}
@@ -51,11 +51,11 @@
 	  {% endfor %}
 	  </ul>
           <div class="meta">
-	    <span class="date">Conference Updates</span>
+	    <span class="date">Recent Conference/Presentation Updates</span>
           </div>
 	  <ul>
 	  {% for conf in site.data.updates.conferences %}
-	  <li>{{ conf.date }} <i>{{ conf.venue }}</i>:  {{ conf.summary }}</li>
+	  <li>{{ conf.date }}: <i>{{ conf.venue }}</i>.  {{ conf.summary }}</li>
           {% endfor %}
 	  </ul>
         </div>

@@ -32,6 +32,11 @@
       "summary": "Poster on optimizing vector similarity search and retrieval for retrieval augmented generation (RAG) systems"
     },
     {
+      "date": "11/2024",
+      "venue": "Intel tech demo",
+      "summary": "<a href=\"https://www.youtube.com/watch?v=6ed8nncQ_Y8\">Video<\/a> demonstrating custom-built RAG application relying on the open-source Intel Scalable Vector Search library for fast data retrieval"
+    },
+    {
       "date": "08/2023",
       "venue": "KDD (Knowledge Discovery & Data Mining)",
       "summary": "Served as an invited discussion panelist at LLM Day <a href=\"https://bigmodel.ai/llmday-kdd23/\">[website]<\/a>"
