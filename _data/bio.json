@@ -42,6 +42,14 @@
 
   "preprints": [
     {
+      "releaseDate": "2025", 
+      "type": "preprint",
+      "publisher": "arXiv",
+      "name": "Position: Episodic Memory is the Missing Piece for Long-Term LLM Agents",
+      "website": "https://arxiv.org/abs/2502.06975",
+      "author": "Pink, M., Wu, Q., <b>Vo, V.A.</b>, Turek, J.S., Mu, J., Huth, A., Toneva, M."
+    },
+    {
       "releaseDate": "2024", 
       "type": "preprint",
       "publisher": "arXiv",
