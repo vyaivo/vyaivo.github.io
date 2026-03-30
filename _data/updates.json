@@ -1,33 +1,27 @@
 {
   "papers": [
     {
+    "date": "10/2025",
+    "status": "<a href=\"https://neurips.cc/virtual/2025/loc/san-diego/poster/116041\">accepted<\/a>",
+    "venue": "NeurIPS",
+    "summary": "Using in-context learning in LLMs to understand associative learning in humans"
+    },
+    {
+    "date": "10/2025",
+    "status": "<a href=\"https://osf.io/sfqea_v1\">preprinted<\/a>",
+    "venue": "PsyArxiv",
+    "summary": "Large-scale analysis of false memory in free recall of narratives"
+    },
+    {
     "date": "02/2025",
     "status": "<a href=\"https://arxiv.org/abs/2502.06975\">preprinted<\/a>",
     "venue": "arXiv",
     "summary": "Position piece on how episodic memory can advance research on LLM agents"
-    },
-    {
-    "date": "12/2024",
-    "status": "<a href=\"https://www.nature.com/articles/s41597-024-04082-6\">published<\/a>",
-    "venue": "Scientific Data",
-    "summary": "The 'Naturalistic Free Recall' Dataset: four stories, hundreds of participants, and high-fidelity transcriptions"
-    },
-    {
-    "date": "10/2024",
-    "status": "<a href=\"https://arxiv.org/abs/2410.08133\">preprinted<\/a>",
-    "venue": "arXiv",
-    "summary": "Report on our Sequence Order Recall Task (SORT), a benchmark to evaluate long-term memory behavior in LLMs. We release data and code"
-    },
-    {
-    "date": "09/2024",
-    "status": "<a href=\"https://arxiv.org/abs/2312.13322\">presented<\/a>",
-    "venue": "IEEE High Performance Extreme Computing",
-    "summary": "Outstanding paper award for Monocoder: Domain-specific code language model for HPC Codes and Tasks"
     }
   ],
   "conferences": [
     {
-      "date": "11/2024",
+      "date": "12/2024",
       "venue": "Workshop on Attributing Model Behavior at Scale, NeurIPS",
       "summary": "Poster on optimizing vector similarity search and retrieval for retrieval augmented generation (RAG) systems"
     },

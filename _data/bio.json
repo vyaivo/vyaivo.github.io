@@ -3,12 +3,12 @@
     "name": "Vy Ai Vo, Ph.D.",
     "label": "Research Scientist",
     "picture": "https://vyaivo.github.io/images/Vo_square_small.jpg",
-    "email": "vy.vo@intel.com",
+    "email": "vyaivo.work@gmail.com",
     "phone": "",
     "website": "https://vyaivo.github.io",
-    "summary": "I work at the intersection of computer science, neuroscience, and cognitive science. I am interested in the computational underpinnings of intelligent behavior, particularly in the use of memory and attention.",
-    "current": "I have recently left my research scientist role at Intel Labs to pursue other projects, both in machine learning and cognitive neuroscience.",
-    "former": "Previously I spent 5 years working in AI/ML in the Brain-Inspired Computing Lab at Intel Labs, most recently on vector similarity search, RAG, and LLM code generation.",
+    "summary": "I work at the intersection of computer science, neuroscience, and cognitive science.",
+    "current": "Full-time (industry): Senior Applied AI Scientist at Thomson Reuters, building agentic AI for legal research. Interested in developing the best technologies to build trustworthy intelligent systems.<br><br>Part-time (academia): Research Scientist with Mariya Toneva's BrAIN group at the Max Planck Institute for Software Systems. Interested in the computational underpinnings of intelligent behavior, particularly the use of memory and attention.",
+    "former": "Previously I spent 5 years as a AI/ML Research Scientist at Intel in the Brain-Inspired Computing Lab. Highlights: collaborating with academics to work on NeuroAI with language models (starting in 2019), and work on LLM code generation for high-performance computing systems (2024).",
     "location": {
       "address": "",
       "postalCode": "",
@@ -31,16 +31,19 @@
         "network": "LinkedIn",
         "username": "vyaivo",
         "url": "http://linkedin.com/in/vyaivo"
-      },
-      {
-        "network": "Twitter",
-        "username": "vvobot",
-        "url": "http://twitter.com/vvobot"
       }
     ]
   },
 
   "preprints": [
+    {
+      "releaseDate": "2025", 
+      "type": "preprint",
+      "publisher": "arXiv",
+      "name": "Distinct paths to false memory revealed in hundreds of narrative recalls",
+      "website": "https://osf.io/sfqea_v1",
+      "author": "Chen, P., Raccah, O., <b>Vo, V.A.</b>, Poeppel, D., Gureckis, T."
+    },
     {
       "releaseDate": "2025", 
       "type": "preprint",
@@ -76,12 +79,20 @@
   ],
   "publications": [
     {
-      "releaseDate": "2024", 
+      "releaseDate": "2025", 
+      "type": "conference",
+      "publisher": "Neural Information Processing Systems (NeurIPS)",
+      "name": "Large Language Models as Model Organisms for Human Associative Learning",
+      "website": "https://arxiv.org/pdf/2510.21408",
+      "author": "Kolling, C., <b>Vo, V.A.</b>, Toneva, M."
+    },
+    {
+      "releaseDate": "2024",
       "type": "journal",
       "publisher": "Scientific Data",
       "name": "The “Naturalistic Free Recall” Dataset: four stories, hundreds of participants, and high-fidelity transcriptions",
       "website": "https://www.nature.com/articles/s41597-024-04082-6",
-      "author": "Raccah, O., Chen, P., Gureckis, T., Poeppel, D., Vo, V."
+      "author": "Raccah, O., Chen, P., Gureckis, T., Poeppel, D., <b>Vo, V.</b>"
     },
     {
       "releaseDate": "2024",
@@ -302,12 +313,32 @@
   ],
   "work": [
     {
+      "company": "TR Labs, Thomson Reuters",
+      "position": "Senior Applied AI Scientist",
+      "website": "",
+      "startDate": "2025-05",
+      "endDate": "now",
+      "summary": "Building trustworthy agentic AI for legal research",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Max Planck Institute for Software Systems",
+      "position": "Research Scientist",
+      "website": "",
+      "startDate": "2025-03",
+      "endDate": "now",
+      "summary": "Part-time work with the Bridging AI and Neuroscience (BrAIN) group",
+      "highlights": [
+      ]
+    },
+    {
       "company": "Intel Labs, Intel Corporation",
       "position": "AI/ML Research Scientist",
       "website": "",
       "startDate": "2019-05",
       "endDate": "2024-11",
-      "summary": "Brain-Inspired Computing Lab, Intelligent Systems Research",
+      "summary": "Basic research in ML and NeuroAI in the Brain-Inspired Computing Lab",
       "highlights": [
       ]
     }
